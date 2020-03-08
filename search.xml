@@ -17,6 +17,8 @@
           
           <category> Golang </category>
           
+          <category> Gin </category>
+          
           <category> 工具 </category>
           
           <category> 教程 </category>
@@ -24,8 +26,6 @@
           <category> Windows </category>
           
           <category> 软件推荐 </category>
-          
-          <category> Gin </category>
           
       </categories>
       
